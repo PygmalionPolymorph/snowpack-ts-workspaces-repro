@@ -1,0 +1,13 @@
+{
+  "name": "@foo/frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "snowpack": "^3.0.11"
+  },
+  "dependencies": {
+    "@foo/js-library": "1.0.0",
+    "@foo/ts-library": "1.0.0"
+  }
+}
